@@ -20,7 +20,7 @@ import ExponentialSearch from "./ExponentialSearch.jsx";
 import SmallestLetter from "./SmallestLetter.jsx";
 import UnknownSizeSearch from "./UnknownSizeSearch.jsx";
 import KthMissingNumber from "./KthMissingNumber.jsx";
-import SpecialArray from "./SpecialArray.jsx";
+import SpecialArray from "./specialArray.jsx";
 
 const AlgorithmList = ({ navigate }) => {
   const [hoveredIndex, setHoveredIndex] = useState(null);
